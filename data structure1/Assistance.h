@@ -1,5 +1,4 @@
 #pragma once
-#pragma once
 #ifndef __ASSISTANCE_H__				// 如果没有定义__ASSISTANCE_H__
 #define __ASSISTANCE_H__				// 那么定义__ASSISTANCE_H__
 
@@ -118,3 +117,5 @@ void Write(const ElemType& e)
 }
 
 #endif
+
+
